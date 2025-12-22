@@ -1,2 +1,11 @@
-# day-01-hello-ai
-My first step into AI – Day 1 of my 90-day journey
+# Day 1 – Hello AI
+
+This is my first step into Artificial Intelligence.
+
+## What I did
+- Installed Python
+- Set up VS Code
+- Wrote my first Python script
+
+## Next step
+Start learning Python basics for AI.
