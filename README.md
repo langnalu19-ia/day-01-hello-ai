@@ -1,11 +1,15 @@
 # Day 1 – Hello AI
 
-This is my first step into Artificial Intelligence.
+This repository is Day 1 of my 90-day AI study plan.
 
 ## What I did
 - Installed Python
-- Set up VS Code
-- Wrote my first Python script
+- Installed VS Code + Python extension
+- Created my first Python script
+-Learned the basic workflow (run code locally + store on GitHub)
 
+## File
+- hello_ai.py
+- 
 ## Next step
-Start learning Python basics for AI.
+Start Python basics for data and AI.
