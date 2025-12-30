@@ -30,4 +30,7 @@ print(song["mood"])
 if song["tempo"] > 70:
     print("This song feels energetic")
 else:
+
     print("This song feels calm")
+
+# Day 2: Python basics – numbers, strings, lists, dictionaries
