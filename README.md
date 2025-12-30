@@ -1,15 +1,23 @@
-# Day 1 – Hello AI
+# Day 1–2 – Python Basics for AI 🚀
 
-This repository is Day 1 of my 90-day AI study plan.
+This repository documents the first steps of my 90-day Artificial Intelligence learning journey.
 
-## What I did
-- Installed Python
-- Installed VS Code + Python extension
-- Created my first Python script
--Learned the basic workflow (run code locally + store on GitHub)
+## What I’ve completed so far
+- ✅ Installed Python and VS Code
+- ✅ Learned Python numbers and strings
+- ✅ Worked with lists and dictionaries
+- ✅ Used conditional logic (`if / else`)
+- ✅ Practiced proper Python indentation
+- ✅ Uploaded and versioned code using GitHub
 
-## File
-- hello_ai.py
-- 
-## Next step
-Start Python basics for data and AI.
+## Files in this repository
+- `hello_ai.py` – First Python script (Day 1)
+- `python_basics.py` – Python fundamentals used in AI (Day 2)
+
+## Goal of this repository
+Build strong Python foundations before moving into machine learning and AI models.
+
+## Next steps
+- Learn loops (`for` and `while`)
+- Practice repetition and data iteration
+- Prepare for AI-style data processing
