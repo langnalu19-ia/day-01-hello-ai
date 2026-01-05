@@ -27,3 +27,8 @@ for song in songs:
         print(song["title"], "→ energetic")
     else:
         print(song["title"], "→ calm")
+count = 0
+
+while count < 5:
+    print("Current count is:", count)
+    count += 1
