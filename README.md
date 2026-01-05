@@ -23,3 +23,6 @@ Build strong Python foundations before moving into machine learning and AI model
 - Prepare for AI-style data processing
 
 - Learn loops and iteration (Day 3)
+
+- - Learned while loops and loop control (Day 4)
+
