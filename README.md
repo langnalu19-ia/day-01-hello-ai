@@ -29,3 +29,6 @@ Build strong Python foundations before moving into machine learning and AI model
 ## Day 5 – Functions
 Learned how to create reusable functions, use parameters, and return values. 
 This is the foundation of decision-making logic used in AI systems.
+
+## Day 6 – Decision Making
+Learned how to combine loops and decision rules to process multiple data points across domains (music, health, finance, education, daily life). Built a reusable multi-domain decision function similar to AI pipelines.
