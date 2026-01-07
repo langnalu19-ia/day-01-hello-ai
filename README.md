@@ -26,3 +26,6 @@ Build strong Python foundations before moving into machine learning and AI model
 
 - - Learned while loops and loop control (Day 4)
 
+## Day 5 – Functions
+Learned how to create reusable functions, use parameters, and return values. 
+This is the foundation of decision-making logic used in AI systems.
