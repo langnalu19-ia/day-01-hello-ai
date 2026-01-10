@@ -36,3 +36,4 @@ Learned how to combine loops and decision rules to process multiple data points 
 ## Day 7 – Mini AI Pipeline
 Built a complete AI-style pipeline that takes raw input data, processes it through decision functions, and outputs results across multiple domains (music, health, finance).
 
+
