@@ -32,3 +32,7 @@ This is the foundation of decision-making logic used in AI systems.
 
 ## Day 6 – Decision Making
 Learned how to combine loops and decision rules to process multiple data points across domains (music, health, finance, education, daily life). Built a reusable multi-domain decision function similar to AI pipelines.
+
+## Day 7 – Mini AI Pipeline
+Built a complete AI-style pipeline that takes raw input data, processes it through decision functions, and outputs results across multiple domains (music, health, finance).
+
